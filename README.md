@@ -1,6 +1,5 @@
 # Final Project and Deployment
 
-Project Documentation: Responsive Blog Website
 Project Title:
 Responsive Blog Website
 
