@@ -30,7 +30,7 @@ about.html – About page describing the website.
 contact.html – Contact page with clickable email link (mailto:).
 
 2. Semantic HTML
-Proper use of semantic tags like <header>, <nav>, <main>, <section>, <article>, and <footer>.
+Proper use of semantic tags like header, nav, main, section, article and footer.
 
 3. Responsive Design
 Mobile-friendly layout using CSS Grid and Media Queries.
